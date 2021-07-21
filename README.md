@@ -1,4 +1,4 @@
-# robofriends
+# robofriends-redux
 React + Redux
 
 To run the project:
